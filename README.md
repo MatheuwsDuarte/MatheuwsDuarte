@@ -52,9 +52,9 @@ Aqui estão alguns dos laboratórios e projetos recentes que venho desenvolvendo
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :---: | :--- |
-| **[RPA Clima & Forms](LINK_DO_SEU_REPO_AQUI)** | Python, Selenium | Robô que coleta dados de clima via API e preenche formulários Google automaticamente. |
-| **[Análise de Energia](LINK_DO_SEU_REPO_AQUI)** | Python, Pandas, MySQL | Integração Python + Banco de dados para gerar gráficos de consumo de energia. |
-| **[Consultas SQL Pro](LINK_DO_SEU_REPO_AQUI)** | MySQL | Modelagem de banco e queries complexas para relatórios gerenciais. |
+| **[RPA Clima & Forms](https://github.com/MatheuwsDuarte/API-com-Python-RPA)** | Python, Selenium | Robô que coleta dados de clima via API e preenche formulários Google automaticamente. |
+| **[Análise de Energia](https://github.com/MatheuwsDuarte/Integra-o-de-banco-de-dados-com-Python)** | Python, Pandas, MySQL | Integração Python + Banco de dados para gerar gráficos de consumo de energia. |
+| **[Consultas SQL Pro](https://github.com/MatheuwsDuarte/Consultas-SQL)** | MySQL | Modelagem de banco e queries complexas para relatórios gerenciais. |
 | **[Projeto OC](https://github.com/MatheuwsDuarte/Projeto_OC)** | C#, ASP.NET | Sistema web completo desenvolvido durante minha formação Full-Stack. |
 
 ---
