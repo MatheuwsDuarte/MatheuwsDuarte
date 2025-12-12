@@ -1,40 +1,73 @@
-# Olá, eu sou o Matheus Duarte 👋
+# Olá, eu sou o Matheus Duarte! 👋
+### 🎓 Eng. da Computação @ UTFPR | 💻 Full-Stack & Dados
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-duarte2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:matheusdual2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
-Sou um estudante de Engenharia de Computação na UTFPR e Técnico em Informática pelo IFSP. Minha jornada na tecnologia começou com uma base sólida em desenvolvimento Full-Stack e hoje se expande para as áreas de Segurança da Informação, Inteligência Artificial e Análise de Dados, buscando uma visão completa do ciclo de vida de um software.
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 🎓 Cursando **Engenharia de Computação** na Universidade Tecnológica Federal do Paraná (UTFPR).
-- 🛠️ Formação como **Técnico em Informática** pelo Instituto Federal de São Paulo (IFSP).
-- 🚀 Experiência profissional como **Desenvolvedor Full-Stack**, criando e mantendo funcionalidades com .NET e Angular em um sistema de gestão de qualidade.
-- 🌱 Atualmente estou aprimorando meus conhecimentos em **Inteligência Artificial**, **Segurança da Informação** e **Análise de Dados**.
----
-
-### 💻 Stack de Tecnologias
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,git,github,docker,azure,c,python,java" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-duarte2002/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
+  <a href="mailto:matheusdual2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-**Linguagens:** C#, JavaScript, SQL, C, C++, Python, Java
-**Backend:** .NET, ASP.NET MVC
-**Frontend:** Angular, HTML5, CSS3
-**Bancos de Dados:** SQL Server
-**Ferramentas e Cloud:** Git, GitHub, Docker, Microsoft Azure
+<br>
+
+## 🚀 Sobre Mim
+
+Sou técnico em informática e estudante de **Engenharia de Computação** na UTFPR. Tenho uma base sólida em desenvolvimento web corporativo (.NET/Angular), mas atualmente estou expandindo meus horizontes para **Engenharia de Dados, Automação (RPA) e Inteligência Artificial**.
+
+* 🔭 Atualmente trabalhando em projetos de **Automação com Python** e **Análise de Dados**.
+* 💼 Experiência prévia com desenvolvimento Full-Stack (.NET e Angular).
+* 🌱 Estudando: **Machine Learning, SQL Avançado e Segurança da Informação**.
 
 ---
 
-### 📫 Como me Encontrar
+## 🛠️ Tech Stack
 
-Sinta-se à vontade para se conectar comigo. Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia!
+Para organizar melhor minhas competências, dividi entre desenvolvimento tradicional e análise de dados:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheus--duarte-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-duarte2002/)
+### 📊 Dados & Automação
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Selenium" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+</div>
+
+### 💻 Desenvolvimento Web & Software
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+Aqui estão alguns dos laboratórios e projetos recentes que venho desenvolvendo:
+
+| Projeto | Tecnologias | Descrição |
+| :--- | :---: | :--- |
+| **[RPA Clima & Forms](LINK_DO_SEU_REPO_AQUI)** | Python, Selenium | Robô que coleta dados de clima via API e preenche formulários Google automaticamente. |
+| **[Análise de Energia](LINK_DO_SEU_REPO_AQUI)** | Python, Pandas, MySQL | Integração Python + Banco de dados para gerar gráficos de consumo de energia. |
+| **[Consultas SQL Pro](LINK_DO_SEU_REPO_AQUI)** | MySQL | Modelagem de banco e queries complexas para relatórios gerenciais. |
+| **[Projeto OC](https://github.com/MatheuwsDuarte/Projeto_OC)** | C#, ASP.NET | Sistema web completo desenvolvido durante minha formação Full-Stack. |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por Matheus Duarte</sub>
+</div>
