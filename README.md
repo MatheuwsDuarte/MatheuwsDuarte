@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou técnico em informática e estudante de **Engenharia de Computação** na UTFPR. Tenho uma base sólida em desenvolvimento web corporativo (.NET/Angular), mas atualmente estou expandindo meus horizontes para **Engenharia de Dados, Automação (RPA) e Inteligência Artificial**.
+Sou técnico em informática e estudante de **Engenharia de Computação** na UTFPR. Tenho uma base sólida em desenvolvimento web corporativo (.NET/Angular), mas atualmente estou expandindo meus horizontes para **Engenharia de Dados, Machine Learning, Automação (RPA) e Inteligência Artificial**.
 
 * 🔭 Atualmente trabalhando em projetos de **Automação com Python** e **Análise de Dados**.
 * 💼 Experiência prévia com desenvolvimento Full-Stack (.NET e Angular).
