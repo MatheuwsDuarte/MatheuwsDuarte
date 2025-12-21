@@ -1,7 +1,10 @@
 # Olá, eu sou o Matheus Duarte! 👋
+![Visitors](https://api.visitorbadge.io/api/visitors?path=MatheuwsDuarte&label=Visitas&countColor=%23263238&style=flat)
 ### 🎓 Eng. da Computação @ UTFPR | 💻 Full-Stack & Dados
 
 <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=MatheuwsDuarte&label=Visitas&countColor=%23263238&style=flat" alt="Visitors"/>
+  <br>
   <a href="https://www.linkedin.com/in/matheus-duarte2002/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,10 +27,8 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 
 ## 🛠️ Tech Stack
 
-Para organizar melhor minhas competências, dividi entre desenvolvimento tradicional e análise de dados:
-
 ### 📊 Dados & Automação
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -35,7 +36,7 @@ Para organizar melhor minhas competências, dividi entre desenvolvimento tradici
 </div>
 
 ### 💻 Desenvolvimento Web & Software
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -48,8 +49,6 @@ Para organizar melhor minhas competências, dividi entre desenvolvimento tradici
 
 ## 📂 Projetos em Destaque
 
-Aqui estão alguns dos laboratórios e projetos recentes que venho desenvolvendo:
-
 | Projeto | Tecnologias | Descrição |
 | :--- | :---: | :--- |
 | **[RPA Clima & Forms](https://github.com/MatheuwsDuarte/API-com-Python-RPA)** | Python, Selenium | Robô que coleta dados de clima via API e preenche formulários Google automaticamente. |
@@ -59,11 +58,13 @@ Aqui estão alguns dos laboratórios e projetos recentes que venho desenvolvendo
 
 ---
 
+## ⚡ Atividade Recente
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula" />
 </div>
 
@@ -72,6 +73,8 @@ Aqui estão alguns dos laboratórios e projetos recentes que venho desenvolvendo
 </div>
 
 ---
+## 🐍 Contribuições
+![github contribution grid snake animation](https://raw.githubusercontent.com/MatheuwsDuarte/MatheuwsDuarte/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <sub>Desenvolvido por Matheus Duarte</sub>
