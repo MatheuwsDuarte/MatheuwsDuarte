@@ -58,8 +58,7 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 ---
 
 ## ⚡ Atividade Recente
-
-
+``
 ---
 
 ## 📈 GitHub Stats
@@ -70,7 +69,7 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=MatheuwsDuarte&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheuwsDuarte&theme=dracula" />
 </div>
 
 ---
