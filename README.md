@@ -2,8 +2,6 @@
 ### 🎓 Eng. da Computação @ UTFPR | 💻 Full-Stack & Dados
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MatheuwsDuarte&label=Visitas&countColor=%23263238&style=flat" alt="Visitors"/>
-  <br>
   <a href="https://www.linkedin.com/in/matheus-duarte2002/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -57,9 +55,6 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 
 ---
 
-## ⚡ Atividade Recente
-``
----
 
 ## 📈 GitHub Stats
 
@@ -68,9 +63,6 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheuwsDuarte&theme=dracula" />
-</div>
 
 ---
 
