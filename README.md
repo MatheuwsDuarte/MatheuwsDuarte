@@ -59,8 +59,18 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_public=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&langs_count=7&theme=dracula" />
+      </td>
+    </tr>
+  </table>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheuwsDuarte&theme=dracula" />
 </div>
 
 
