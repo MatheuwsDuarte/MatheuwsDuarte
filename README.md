@@ -62,8 +62,13 @@ Aqui estão alguns dos laboratórios e projetos recentes que venho desenvolvendo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheuwsDuarte&theme=dracula" />
 </div>
 
 ---
