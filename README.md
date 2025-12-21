@@ -59,7 +59,7 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuwsDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_public=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuwsDuarte&layout=compact&theme=dracula" />
 </div>
 
