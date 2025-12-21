@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:         # Adicione este bloco
+      contents: write    # Garante permissão de escrita
     steps:
       - uses: Platane/snk@v3
         with:
