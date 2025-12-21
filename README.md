@@ -58,6 +58,7 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 ---
 
 ## ⚡ Atividade Recente
+
 ---
 
 ## 📈 GitHub Stats
