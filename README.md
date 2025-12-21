@@ -1,5 +1,4 @@
 # Olá, eu sou o Matheus Duarte! 👋
-![Visitors](https://api.visitorbadge.io/api/visitors?path=MatheuwsDuarte&label=Visitas&countColor=%23263238&style=flat)
 ### 🎓 Eng. da Computação @ UTFPR | 💻 Full-Stack & Dados
 
 <div align="center">
