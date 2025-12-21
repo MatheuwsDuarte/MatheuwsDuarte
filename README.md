@@ -68,12 +68,17 @@ Sou técnico em informática e estudante de **Engenharia de Computação** na UT
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheuwsDuarte&theme=dracula" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=MatheuwsDuarte&theme=dracula" />
 </div>
 
 ---
+
 ## 🐍 Contribuições
-![github contribution grid snake animation](https://raw.githubusercontent.com/MatheuwsDuarte/MatheuwsDuarte/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MatheuwsDuarte/MatheuwsDuarte/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</div>
+
+<br>
 
 <div align="center">
   <sub>Desenvolvido por Matheus Duarte</sub>
